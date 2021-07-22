@@ -1,0 +1,128 @@
+{
+  "userlist": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin123"
+    },
+    {
+      "id": 2,
+      "username": "tourist",
+      "password": "tourist123"
+    }
+  ],
+  "wlan": [
+    {
+      "Enable": false,
+      "wlanlist": [
+        {
+          "id": 1,
+          "username": "admin",
+          "password": "admin123"
+        },
+        {
+          "id": 2,
+          "username": "tourist",
+          "password": "tourist123"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "id": 2,
+      "wlanlist": [
+        {
+          "id": 1,
+          "username": "admin",
+          "password": "admin123"
+        },
+        {
+          "id": 2,
+          "username": "tourist",
+          "password": "tourist123"
+        }
+      ]
+    }
+  ],
+  "battery": [
+    {
+      "id": 1,
+      "rest": 64
+    }
+  ],
+  "batteryMode": [
+    {
+      "id": 1,
+      "name": "nature",
+      "enable": false
+    },
+    {
+      "id": 2,
+      "name": "save",
+      "enable": false
+    },
+    {
+      "id": 3,
+      "name": "supersave",
+      "enable": false
+    }
+  ],
+  "elerestshowmethod": [
+    {
+      "mode": 0,
+      "id": 1
+    }
+  ],
+  "storage": [
+    {
+      "id": 1,
+      "name": "图片",
+      "number": 4.96
+    },
+    {
+      "id": 2,
+      "name": "视频",
+      "number": 1.29
+    },
+    {
+      "id": 3,
+      "name": "音频",
+      "number": 1
+    },
+    {
+      "id": 4,
+      "name": "文档",
+      "number": 1
+    },
+    {
+      "id": 5,
+      "name": "压缩包",
+      "number": 2
+    },
+    {
+      "id": 6,
+      "name": "安装包",
+      "number": 2.34
+    },
+    {
+      "id": 7,
+      "name": "应用",
+      "number": 62
+    },
+    {
+      "id": 8,
+      "name": "fullmem",
+      "number": 128
+    }
+  ],
+  "voice": [
+    {
+      "ring": false,
+      "shake": true,
+      "mute": false,
+      "phonepercent": 0.4584450402144772,
+      "clockpercent": 0.5013404825737265,
+      "id": 1
+    }
+  ]
+}
